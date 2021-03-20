@@ -1,3 +1,3 @@
 # Offline-Dictionary based on json data (Python)
-Hello everyone . This is a simple offline dictionary based on json data. This is not a full fledged dictionary with definitions rather a hobby project to illustrate Tkinter library functions and file handling in python.
+Hello everyone . This is a simple offline dictionary based on json data. A simple dictionary with definitions and typo tolerances.
 Contributions and critiques are welcome.
